@@ -5,9 +5,8 @@
 ```markdown
 # A-B Wordlist Combiner
 
-**Author:** Hermann Knopp  
+ 
 **Version:** 0.1a (1.7.2023)  
-**Contact:** hermann.knopp@gmx.at  
 **Python Version:** 3.10.10 x64/amd64  
 
 ---
@@ -113,4 +112,5 @@ Dieses Projekt ist für private und nicht-kommerzielle Nutzung freigegeben.
 # Keine externen Bibliotheken benötigt
 
 ```
+
 
