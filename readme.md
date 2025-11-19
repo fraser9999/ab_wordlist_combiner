@@ -2,9 +2,7 @@
 ```markdown
 # A-B Wordlist Combiner
 
-**Author:** Hermann Knopp  
 **Version:** 0.1a (1.7.2023)  
-**Contact:** hermann.knopp@gmx.at  
 **Python Version:** 3.10.10 x64/amd64  
 
 ---
@@ -99,7 +97,7 @@ python AB_Wordlist_Combiner.py
 ### **requirements.txt**
 
 
-# no external Bibliotheks used
+no external Bibliotheks used
 
 ```
 
@@ -111,5 +109,6 @@ python AB_Wordlist_Combiner.py
 This project is free for private and non-commercial use.
 
 ```
+
 
 
